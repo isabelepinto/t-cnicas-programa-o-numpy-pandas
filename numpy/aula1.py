@@ -17,7 +17,6 @@ print('\n')
 
 a2d = np.ones((3,5))
 print(a2d)
-
 print('\n')
 
 b2d = np.zeros((4,9))
